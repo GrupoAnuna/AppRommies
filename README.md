@@ -1,2 +1,2 @@
 # AppRommies
-First app by grop Anuna
+First app by group Anuna
